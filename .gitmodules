@@ -5,6 +5,3 @@
 [submodule "AZIAD"]
 	path = AZIAD
 	url = https://github.com/cran/AZIAD
-[submodule "RAZIAD"]
-	path = RAZIAD
-	url = https://github.com/cran/RAZIAD
